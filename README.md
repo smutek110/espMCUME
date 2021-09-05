@@ -51,6 +51,7 @@ Zx80/Zx81 (esp81), Zx Spectrum (espspeccy), Atari800 (esp800)and C64 (esp64)
 - insert the SD into the ILI9341 SD slot
 
 # Compilation/flashing
+- you must use esp-idf v3.2.5
 - go to espboot directory first:
 - make, make flash => this will install custom partition table, bootloader and app selector 
 - go to any other directory (one by one!):
