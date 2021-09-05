@@ -58,7 +58,7 @@ static void *decoder = nullptr;
 #define MENU_FILE_BGCOLOR   RGBVAL16(0x00,0x00,0x10)
 
 
-#define NB_APPS 8
+#define NB_APPS 14
 
 static bool menuRedraw=false;
 static int nbFiles=NB_APPS;
@@ -73,10 +73,15 @@ static char * apps[NB_APPS] = {
 "    Atari 800     ",
 "       C64        ",
 "    Atari 2600    ",
-//"     Odyssey      ",
+"     Odyssey      ",
 "       NES        ",
+"    NOFRENDO      ",
 "   Colecovision   ",
-"    Atari 5200    "
+"    Atari 5200    ",
+" 8086 PC Emulator ",
+"     Vertex       ",
+"    Castaway      ",
+"   Sound Player   "
 };
 
 
