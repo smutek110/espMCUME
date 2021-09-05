@@ -11,3 +11,9 @@ ota_4,  app,  ota_4, 0x240000, 0x070000
 ota_5,  app,  ota_5, 0x2B0000, 0x070000
 ota_6,  app,  ota_6, 0x320000, 0x070000
 ota_7,  app,  ota_7, 0x390000, 0x070000
+ota_8,  app,  ota_8, 0x400000, 0x070000
+ota_9,  app,  ota_9, 0x470000, 0x070000
+ota_10,  app,  ota_10, 0x4E0000, 0x070000
+ota_11,  app,  ota_11, 0x550000, 0x070000
+ota_12,  app,  ota_12, 0x5C0000, 0x070000
+ota_13,  app,  ota_13, 0x630000, 0x070000
